@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lomcn.net.ico",
     "slug": "lomcn",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 80,
     "timeDay": 80,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-06-13": 4
+      "2023-06-13": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-virgin",
     "status": "down",
-    "uptime": "13.05%",
-    "uptimeDay": "13.05%",
-    "uptimeWeek": "13.05%",
-    "uptimeMonth": "13.05%",
-    "uptimeYear": "13.05%",
+    "uptime": "5.13%",
+    "uptimeDay": "5.13%",
+    "uptimeWeek": "5.13%",
+    "uptimeMonth": "5.13%",
+    "uptimeYear": "5.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-13": 3
+      "2023-06-13": 9
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-one-stream",
     "status": "down",
-    "uptime": "15.38%",
-    "uptimeDay": "15.38%",
-    "uptimeWeek": "15.38%",
-    "uptimeMonth": "15.38%",
-    "uptimeYear": "15.38%",
+    "uptime": "5.72%",
+    "uptimeDay": "5.72%",
+    "uptimeWeek": "5.72%",
+    "uptimeMonth": "5.72%",
+    "uptimeYear": "5.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-13": 3
+      "2023-06-13": 8
     }
   }
 ]
